@@ -1,5 +1,5 @@
 # Sitecore.Support.94870.118509
-The `SPEAK Select Media` dialog box doesn't use the `Root` field value which is defined in any item (e.g. `AllMediaFiles`) under the `/sitecore/client/Applications/Dialogs/SelectMediaDialog/PageSettings/SearchConfigs/AllMediaFiles` item in the `Core` database.</br>
+The `SPEAK Select Media` dialog box doesn't use the `Root` field value which is defined in any item (e.g. `AllMediaFiles`) under the `/sitecore/client/Applications/Dialogs/SelectMediaDialog/PageSettings/SearchConfigs` item in the `Core` database.</br>
 This patch fixes the described behavior.
 
 ## License  
